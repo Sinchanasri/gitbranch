@@ -1,5 +1,5 @@
 class abc{
-  int x;
+  int y;
   void fun(){
   }
 }
